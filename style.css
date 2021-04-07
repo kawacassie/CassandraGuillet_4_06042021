@@ -511,7 +511,14 @@ button {
 .form-control {
     border-color: rgba(0, 0, 0, .1);
     box-shadow: none;
+    width: 50%;
+    min-height: 25px;
+    margin: 5px 5px 15px 2px;
+    border-radius: 5px;
+    padding-left: 10px;
 }
+
+
 
 .scrollToTop {
     width: 40px;
@@ -871,6 +878,9 @@ h4 {
 @media (max-width: 991px) {
     .container {
         width: 100%;
+    }
+    .form-control {
+        width: 80%;
     }
     .b-parallax {
         background-attachment: scroll;
