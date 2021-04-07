@@ -5133,20 +5133,25 @@ textarea.input-group-sm>.input-group-btn>.btn {
 }
 
 .container-fluid>.navbar-collapse,
-.container-fluid>.navbar-header,
-.container>.navbar-collapse,
-.container>.navbar-header {
+.container>.navbar-collapse {
     margin-right: -15px;
     margin-left: -15px
 }
 
+.container-fluid>.navbar-header,
+.container>.navbar-header {
+    margin-left: 20%;
+}
+
 @media (min-width:768px) {
     .container-fluid>.navbar-collapse,
-    .container-fluid>.navbar-header,
-    .container>.navbar-collapse,
-    .container>.navbar-header {
+    .container>.navbar-collapse {
         margin-right: 0;
         margin-left: 0
+    }
+    .container-fluid>.navbar-header,
+    .container>.navbar-header {
+        margin-left: 40%;
     }
 }
 
