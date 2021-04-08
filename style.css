@@ -510,7 +510,7 @@ button {
 .form-control {
     border-color: rgba(0, 0, 0, .1);
     box-shadow: none;
-    width: 50%;
+    width: 90%;
     min-height: 25px;
     margin: 5px 5px 15px 2px;
     border-radius: 5px;
@@ -691,7 +691,7 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 15px;
 }
 
 .tight-width-whitespace {
