@@ -14,8 +14,8 @@ Outils utilisés pour réaliser le rapport d'optimisation : Wave, Lighthouse, Da
 
 Analyse Lighthouse avant les modifications : 
 
-![Lightouse Avant](img\LighthouseGlobalAvant.png)
+![Lightouse Avant](./img/LighthouseGlobalAvant.png)
 
 Analyse Lightouse après les modifications : 
 
-![Lightouse Apres](img\LighthouseGlobalApres.png)
+![Lightouse Apres](./img/LighthouseGlobalApres.png)
