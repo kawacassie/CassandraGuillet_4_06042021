@@ -11,3 +11,11 @@ Optimiser le référencement d'un site web
 Assurer l'accessibilité d'un site web
 
 Outils utilisés pour réaliser le rapport d'optimisation : Wave, Lighthouse, Dareboost, GTmetrix 
+
+Analyse Lighthouse avant les modifications : 
+
+![Lightouse Avant](img\LighthouseGlobalAvant.png)
+
+Analyse Lightouse après les modifications : 
+
+![Lightouse Apres](img\LighthouseGlobalApres.png)
