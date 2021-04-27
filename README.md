@@ -1,4 +1,4 @@
-School project OpenClassrooms : Optimisez un site web existant 
+### School project OpenClassrooms : Optimisez un site web existant ###
 
 Projet : Apporter des modifications au code source d'un site web pour améliorer ses performances
 
